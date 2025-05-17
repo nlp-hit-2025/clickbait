@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d038e9a9f06709c24079a7ada3e1c2f1501b61ba54906766cfdef06eb3b45a84
-size 214
+{
+  "clickbait_methods": [
+    {
+      "method": "Emotional Appeal & Power Words",
+      "description": "Use emotionally charged adjectives and power words to trigger strong feelings—surprise, excitement, fear—that compel readers to click.",
+      "example": "The Shocking Secret No One Told You About Your Morning Coffee"
+    },
+    {
+      "method": "Curiosity Gaps & Cliffhangers",
+      "description": "Tease incomplete or open-ended information to create a knowledge “gap” that readers feel compelled to fill by clicking through.",
+      "example": "You Won’t Believe What Happened When She Opened That Letter…"
+    },
+    {
+      "method": "Provocative Question‑Based Headlines",
+      "description": "Frame your title as a tantalizing question to directly invite readers to seek the answer by clicking.",
+      "example": "Why Are This Year’s Top CEOs All Secretly Doing the Same Thing?"
+    },
+    {
+      "method": "Dramatic Numbers & Listicles",
+      "description": "Lead with specific figures or list formats to promise concise, bite‑sized takeaways and set clear expectations.",
+      "example": "7 Shocking Reasons You’re Still Tired After 8 Hours of Sleep"
+    },
+    {
+      "method": "Teasers & Promises",
+      "description": "Offer just enough of a preview to hint at a big payoff or transformation without giving it all away.",
+      "example": "This Simple Morning Trick Will Change Your Entire Day"
+    },
+    {
+      "method": "Urgency & FOMO Triggers",
+      "description": "Imply timeliness, scarcity, or trending status to spur immediate action from readers who fear missing out.",
+      "example": "Watch This Before It Disappears Forever"
+    },
+    {
+      "method": "Hyperbole Balanced with Credibility",
+      "description": "Exaggerate for dramatic effect, then add a credibility hook (e.g., “backed by research”) so you don’t erode trust.",
+      "example": "The Unbelievable Hack That’s Backed by Scientists—And It Actually Works!"
+    },
+    {
+      "method": "Targeted Audience Personalization",
+      "description": "Tailor your wording to a specific demographic or interest group to make readers feel the content is made just for them.",
+      "example": "Attention New Parents: The 5 Hacks Every Mom and Dad Needs to Know"
+    },
+    {
+      "method": "Authority & Social Proof",
+      "description": "Invoke expert quotes, research findings, or influencer endorsements to lend authenticity and make your promise more believable.",
+      "example": "Celebrity Trainer Reveals the 3 Exercises Everyone’s Talking About"
+    },
+    {
+      "method": "Trend Leveraging",
+      "description": "Reference current events, viral topics, or “most shared” stats to tap into what’s already on people’s minds.",
+      "example": "How the Latest TikTok Craze Is Secretly Rewiring Your Brain"
+    }
+  ]
+}
