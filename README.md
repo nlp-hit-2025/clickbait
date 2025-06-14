@@ -10,18 +10,21 @@ Detecting clickbait is challenging due to stylistic ambiguity between legitimate
 
 
 📌 Project Goals
+
 - Detect clickbait headlines using NLP techniques and pre-trained models
 - Attribute clickbait tactics (e.g., curiosity gap, emotional triggers) to each headline
 - Compare pipeline approaches: single-step GPT prompting (using GPT-4o mini and Gemini-2.0 Flash) vs two-step classification using BERT
   
   
 🧾 Formal Task Specification
+
 Input: a short news headline (original or modified to appear as clickbait), typically between 15–20 words.
 Output: binary classification – Clickbait (1) or Not Clickbait (0), if classified as clickbait: perform multi-label classification to identify the specific clickbait tactics or stylistic patterns used
 Metrics: for clickbait detection: Accuracy, Precision, Recall, F1-score. For tactic attribution (multi-label classification): Macro / Micro F1-scores
 
 
 📦 Dataset Generation
+
 We generate the dataset using a custom Python script. First, real news headlines are loaded from a CSV file named news_data.csv, which contains original, non-clickbait titles. Then, we define 10 common clickbait tactics:
 1.Curiosity Gap
 2.Exaggeration
@@ -41,6 +44,7 @@ For each real headline, we randomly select several tactics and use GPT to rewrit
 
 
 👥 Team 
+
 - Lihi Nofar
 - Aviv Elbaz
 - Tomer Portal
