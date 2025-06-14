@@ -41,22 +41,8 @@ For each real headline, we randomly select several tactics and use GPT to rewrit
 
 
 📁 Repository Structure
-clickbait/
-│
-├── Dataset_generation/       → Python scripts for building and labeling the dataset
-│   └── news_data.csv, GPT augmentation, tactic tagging, etc.
-│
-├── Presentations/            → Slide decks used in proposal and final presentations
-│   └── proposal.pdf, final_presentation.pdf,
-│
-├── single_step_pipeline/     → Code for GPT-based one-shot classification
-│   └── prompt templates, evaluation scripts
-│
-├── two_steps_pipeline/       → Code for BERT-based clickbait detection + tactic attribution
-│   └── binary + multilabel classifiers, SHAP explainability
-│
-├── .gitattributes            → Git configuration
-├── README.md                 → Project overview and usage instructions
+
+![image](https://github.com/user-attachments/assets/7a2315d2-d460-4853-929c-85090ef385aa)
 
 
 👥 Team 
