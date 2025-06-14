@@ -47,7 +47,8 @@ For each real headline, we randomly select several tactics and use GPT to rewrit
 
 📁 **Repository Structure**
 
-![image](https://github.com/user-attachments/assets/6081f4b6-2759-4b81-919e-1f0f11f93ecf)
+![image](https://github.com/user-attachments/assets/9bd67bb3-38c1-43d7-b95a-6ba726647763)
+
 
 
 
