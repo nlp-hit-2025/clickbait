@@ -1,8 +1,10 @@
 🧠 "Bait Buster" - Clickbait Detection and Tactics Attribution (NLP-HIT 2025)
+
 This repository contains the code, data, and experiments for our Clickbait Detection Project, developed as part of the NLP course at HIT (2025)
 
 
 🎯 Problem Statement
+
 Deceptive headlines use psychological manipulation to drive engagement. This is not a trivial issue: 72% of users report feeling tricked by misleading headlines (Pew Research), and 68% say clickbait reduces overall trust in the media. Beyond perception, the financial toll is massive – an estimated $7 billion per year is wasted on misplaced ad revenue driven by misleading content.
 Detecting clickbait is challenging due to stylistic ambiguity between legitimate teasers and manipulative hooks, cultural variability in humor and sarcasm, and the adaptive nature of clickbait tactics which evolve continuously to bypass detection and exploit user attention.
 
